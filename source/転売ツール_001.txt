@@ -1,0 +1,18 @@
+https://api.keepa.com/tracking?key=1kjpjviqg2q30r3u32o4lnc96bacjj62p2hcpoj1qgnk70j7gqqe1poffs6cnncr&type=get&asin=B075DC9YZD
+
+
+https://api.keepa.com/tracking?key=1kjpjviqg2q30r3u32o4lnc96bacjj62p2hcpoj1qgnk70j7gqqe1poffs6cnncr&type=notification&type=add
+
+
+{"asin":B075DC9YZD,"ttl":0,"expireNotify":false,"desiredPricesInMainCurrency":true,"mainDomainId":5,"updateInterval":1,"metaData":sharp,"thresholdValues":,"notifyIf":,"notificationType": {true,false,false,false,false,false,false},"individualNotificationInterval":-1}
+
+
+https://api.keepa.com/tracking?key=1kjpjviqg2q30r3u32o4lnc96bacjj62p2hcpoj1qgnk70j7gqqe1poffs6cnncr&type=add&tracking={%22asin%22:"B08LM7XDD8",%22ttl%22:0,%22expireNotify%22:false,%22desiredPricesInMainCurrency%22:true,%22mainDomainId%22:5,%22updateInterval%22:1,%22notificationType%22:[true,false,false,false,false,false,false],%22individualNotificationInterval%22:-1}
+
+
+https://api.keepa.com/tracking?key=1kjpjviqg2q30r3u32o4lnc96bacjj62p2hcpoj1qgnk70j7gqqe1poffs6cnncr&type=add&tracking=%7B%22asin%22:B075DC9YZD,%22ttl%22:0,%22expireNotify%22:false,%22desiredPricesInMainCurrency%22:true,%22mainDomainId%22:5,%22updateInterval%22:1,%22notificationType%22:%5Btrue,false,false,false,false,false,false%5D,%22individualNotificationInterval%22:-1%7D
+
+
+
+
+https://api.keepa.com/tracking?key=1kjpjviqg2q30r3u32o4lnc96bacjj62p2hcpoj1qgnk70j7gqqe1poffs6cnncr&type=add&tracking={aaaa}
